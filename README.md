@@ -27,8 +27,8 @@
 * 登入之後點擊log out，可回到登入頁面
 
 ## 測試的使用者帳號
-* **firstName**：Tony / **email**：tony@stark.com / **password**：iamironman
-* **firstName**：Steve / **email**：captain@hotmail.com / **password**：icandothisallday
-* **firstName**: Peter / **email**：peter@parker.com / **password**：enajyram
-* **firstName**：Natasha / **email**：natasha@gamil.com / **password**：*parol#@$!
-* **firstName**：Nick / **email**：nick@shield.com / **password**：password
+* **firstName**：Tony / **email**：`tony@stark.com` / **password**：iamironman
+* **firstName**：Steve / **email**：`captain@hotmail.com` / **password**：icandothisallday
+* **firstName**: Peter / **email**：`peter@parker.com` / **password**：enajyram
+* **firstName**：Natasha / **email**：`natasha@gamil.com` / **password**：*parol#@$!
+* **firstName**：Nick / **email**：`nick@shield.com` / **password**：password
