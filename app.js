@@ -19,13 +19,8 @@ app.post('/', (req, res) => {
   if (results === 'Please enter your information' || results === 'Incorrect Email or Password') {
     res.render('index', { results: results, email: email })
   } else {
-    res.redirect('success')
-  }
-
-  app.get('/success', (req, res) => {
     res.render('success', { results: results })
-  })
-
+  }
 })
 
 app.listen(port, () => {
